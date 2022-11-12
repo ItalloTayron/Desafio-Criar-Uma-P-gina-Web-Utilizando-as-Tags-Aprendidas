@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiros Passos com HTML</title>
+</head>
+
+<body>
+    <h1 id="inicio">Primeiros Passos com HTML</h1>
+    <hr />
+    <h2>Assuntos tratados:</h2>
+    <ul>
+        <li><a href="#Primeiros Computadores">Primeiros Computadores</a></li>
+        <li><a href="#Como Surgiu a Internet">Como Surgiu a Internet</a></li>
+        <li><a href="#Grandes Nomes">Grandes Nomes</a></li>
+        <li><a href="#Clients no linguajar Web">Clients no linguajar Web</a></li>
+        <li><a href="#Navegadores">Navegadores</a></li>
+        <li><a href="#Aplicações Web">Aplicações Web</a></li>
+        <li><a href="#Sobre Servidores">Sobre Servidores</a></li>
+        <li><a href="#Tipos de Servidores">Tipos de Servidores</a></li>
+        <li><a href="#Linguagens de Programação">Linguagens de Programação Conceito</a></li>
+    </ul>
+    <h2 id="Primeiros Computadores">Primeiros Computadores</h2>
+    <h3>Mark 1</h3>
+    <a>
+        <img src="Harvard-Mark-I-Howard-Aiken-ballistics-calculations-1943.jpg"
+            alt="A imagen apresenta a Mark 1 a primeira calculadora eletro-mecânica automática produzida" width="500"
+            height="300" />
+    </a>
+    <p> O <strong>MARK I</strong> era um computador, totalmente electromecânico, construído em <strong>1944</strong>
+        pelo
+        professor Howard Aiken da Universidade de Harvard em Cambridge U.S.A.. Foi
+        construído na sequência da celebração, em 1939, de um contrato entre a Marinha dos
+        Estados Unidos da América (US Navy ) e a Universidade de Harvard para construção de
+        um calculador de tabelas para uso na navegação. A IBM financiava a construção do
+        calculador em 2/3 e o restante era financiado pela Marinha dos Estados Unidos da
+        América.</p>
+    <p>O <strong>MARK I</strong> tinha cerca de 17 metros de comprimento por 2,5 metros de altura e uma
+        massa de cerca de 5 toneladas. Quando em funcionamento, diz-se que reproduzia o ruído
+        de uma grande sala cheia de velhinhas todas a tricotar ao mesmo tempo.</p>
+    <h3>Colossus</h3>
+    <a>
+        <img src="computer-Colossus-Bletchley-Park-Buckinghamshire-England-Funding-1943.jpg"
+            alt="A imagen mostra o Colossus sendo operado" width="500" height="300" />
+    </a>
+    <p><strong>Colossus (1943)</strong> foi o <i>primeiro computador eletrônico</i>. Desenvolvido por Thomas Flowers
+        assistido por Sidney
+        Broadhurst e William Chandler. Construído pelo governo britânico, com contribuição de <strong>Alan
+            Turing</strong>, para decifrar mensagens codificadas por ENIGMA. Entrada por fita de papel, Programado por
+        chaves e plugs. A existência do Colossus ficou em segredo até os anos 1970. Colossus foi usado pela equipe de
+        decodificadores de Bletchley
+        Park liderada por Alan Turing com o único objetivo de decifrar a <strong>ENIGMA</strong>. ENIGMA usava 3 rotores
+        de 5 (dando 1019 configurações).
+        Nova versão usava 4 rotores de 8 (1022 configurações). Tendo um crib (trecho do código decifrado), bombes eram
+        usados para descobrir a configuração inicial, antes de Colossus.</p>
+    <h3>Eniac</h3>
+    <a>
+        <img src="eniac-conheca-a-historia-do-primeiro-computador-inventado-no-mundo-4-e1607558633826.jpg"
+            alt="A imagen mostra o Eniac, o primeiro computador inventado" width="500" height="300" />
+    </a>
+    <p><strong>Electronic Numerical Integrator and Computer</strong> foi o primeiro computador digital eletrônico de
+        grande escala. Muitos comentam que o primeiro foi o Mark I, mas este era apenas eletromecânico.
+        O <strong>ENIAC</strong> entrou em funcionamento em fevereiro de 1946 pelas mãos dos cientistas norte-americanos
+        John Eckert e John Mauchly, da Electronic Control Company.
+        O <strong>ENIAC</strong> começou a ser desenvolvido em 1943 durante a II Guerra Mundial a pedido do exército dos
+        Estados Unidos para computar trajetórias táticas que exigiam conhecimento substancial em matemática com mais
+        agilidade,
+        mas só se tornou operacional após o final da guerra.</p>
+    <button><a href="#inicio">VOLTAR AO INICIO</a></button>
+    <h2 id="Como Surgiu a Internet">Como Surgiu a Internet</h2>
+    <p>A internet surgiu a partir de pesquisas militares no auge da Guerra Fria. Na década de 1960 (1969)
+        o governo dos Estados Unidos temia um ataque russo às bases militares. Um ataque poderia trazer
+        a público informações sigilosas, tornando os EUA vulneráveis. Então foi idealizado um modelo de
+        troca e compartilhamento de informações que permitisse a descentralização delas. Assim, se o Pentágono fosse
+        atingido, as informações armazenadas ali não estariam perdidas. Era preciso, portanto,
+        criar uma rede, a <strong>ARPANET</strong>, criada pela <strong>ARPA</strong>, sigla para <i><U>Advanced
+                Research Projects Agency</U></i>. Em
+        1962, J. C. R. Licklider, do Instituto Tecnológico de Massachusetts (MIT), já falava em termos da
+        criação de uma Rede Intergalática de Computadores (Intergalactic Computer Network, em inglês).</p>
+    <a>
+        <img src="arpa.jpg" alt="A imagem mostra a primeira rede de trasmissão da ARPANET" width="500" height="300" />
+    </a>
+    <p>A <strong>ARPANET</strong> funcionava por meio de um sistema conhecido como chaveamento de pacotes, que
+        é um sistema de transmissão de dados em rede de computadores no qual as informações são divididas em pequenos
+        pacotes, que por sua vez contêm trecho dos dados, o endereço do destinatário e
+        informações que permitiam a remontagem da mensagem original.</p>
+    <p>Já na década de 1970, a tensão entre URSS e EUA diminui. As duas potências entram definitivamente naquilo em que
+        a história se encarregou de chamar de Coexistência Pacífica. Não havendo
+        mais a iminência de um ataque imediato, o governo dos EUA permitiu que pesquisadores que desenvolvessem, nas
+        suas respectivas universidades, estudos na área de defesa pudessem também entrar
+        na <strong>ARPANET</strong>. Com isso, a <strong>ARPANET</strong> começou a ter dificuldades em administrar todo
+        este sistema,
+        devido ao grande e crescente número de localidades universitárias contidas nela.</p>
+    <a>
+        <img src="divisão.jpg" alt="A imagem mostra a Divisão da Arpanet" width="500" height="300" />
+    </a>
+    <p>Dividiu-se, então, esse sistema em dois grupos, a <strong>MILNET</strong>, que possuía as localidades militares,
+        e a nova <strong>ARPANET</strong>, que possuía as localidades não militares. O desenvolvimento da rede, nesse
+        ambiente mais livre, pôde então acontecer. Não só os pesquisadores como também os alunos e os
+        amigos dos alunos, tiveram acesso aos estudos já empreendidos e somaram esforços para aperfeiçoá-los.</p>
+    <button><a href="#inicio">VOLTAR AO INICIO</a></button>
+    <H2 id="Grandes Nomes">Grandes Nomes</H2>
+    <h3>Grace Murray Hopper</h3>
+    <a>
+        <img src="grace-hopper-portrait.jpg" alt="A imagem mostra Grace Murray Hopper" width="300" height="300" />
+    </a>
+    <p>Grace Murray Hopper foi almirante e analista de sistemas da Marinha dos Estados Unidos nas décadas de 1940 e
+        1950, criadora da linguagem de programação de alto nível Flow-Matic (em desuso) — base para a criação do
+        <strong>COBOL</strong> — e uma das primeiras programadoras do computador Harvard Mark I em 1944.
+    </p>
+    <p>É dito que é de autoria de Hopper o termo <strong>"bug"</strong> usado para designar uma falha num código-fonte.
+        Quando procurava um problema em seu computador; percebeu que havia um inseto morto no computador causando
+        transtorno, desde então o termo <strong>bug</strong> passou a ser usado.</p>
+    <h3>J. C. R. Licklider</h3>
+    <a>
+        <img src="jcl2.jpg" alt="A imagem mostra J.C.R. Licklider" width="300" height="300" />
+    </a>
+    <p>Licklider foi o primeiro gestor do programa de pesquisa de computador do <strong>DARPA</strong>, começando em
+        Outubro de 1962.</p>
+    <p>A partir do MIT - Massachussets Institute of Technology, em Agosto de 1962, Licklider começou a discutir o
+        conceito da <strong>Rede Galáctica</strong>. Esta rede previa vários computadores distribuídos globalmente,
+        ligados entre si por uma rede. Por meio deste sistema de computadores em rede, poder-se-ia aceder a dados e a
+        programas a partir de de qualquer desses computadores, rapidamente.
+
+        Em essência, este conceito é parecido com a Internet de hoje.</p>
+    <h3>Robert E. Kahn</h3>
+    <a>
+        <img src="200px-Bob_Kahn.jpg" alt="A imagem mostra Robert E. Kahn" width="300" height="300" />
+    </a>
+    <p>Robert Elliot Kahn é um informático estadunidense.</p>
+    <p>Foi laureado com o Prêmio Turing de 2004, por desenvolver o <strong>Transmission Control Protocol (TCP)</strong>,
+        atual transmissor de dados da Internet.</p>
+    <p>Kahn foi um dos cinco pioneiros da Internet e da Web, a primeira apresentação pública da
+        <strong>ARPANET</strong>.
+    </p>
+    <p>Apresentou o primeiro e-mail.</p>
+    <h3>Tim Berners-Lee</h3>
+    <a>
+        <img src="Sir_Tim_Berners-Lee_(cropped).jpg" alt="A imagem mostra Sir Tim Berners-Lee" width="300"
+            height="300" />
+    </a>
+    <p>Timothy John Berners-Lee é um físico britânico, cientista da computação e professor do MIT. É o criador da
+        <strong>World Wide Web (www)</strong>, tendo feito a primeira proposta para sua criação a 12 de março de 1989.
+        Em 25 de dezembro de 1990, implementou a primeira comunicação bem-sucedida entre um cliente HTTP e o servidor
+        através da internet.
+    </p>
+    <h3>Marc Andreessen</h3>
+    <a>
+        <img src="Marc_Andreessen.jpg" alt="A imagem mostra Marc Andreessen" width="400" height="300" />
+    </a>
+    <p>Andreessen nasceu em Cedar Falls, Iowa, nos Estados Unidos, e criou-se em New Lisbon, em Wisconsin. Seu pai era
+        vendedor de sementes da Pioneer, e sua mãe trabalhava em uma loja de roupas que vendia através de catálogos de
+        produtos.</p>
+    <p>Andreessen recebeu seu bacharelado em ciência da computação da Universidade de Illinois. Estagiou durante um
+        verão na IBM, em Austin, no Texas. Também trabalhou no Centro Nacional para Aplicativos de Supercomputação, onde
+        adaptou-se com o ViolaWWW criado por Pei-Yuan Wei, que era baseado nos padrões abertos da World Wide Web de Tim
+        Berners-Lee. Estes navegadores antigos de Internet eram criados para funcionar apenas com as antigas e caras
+        estações de trabalho em Unix. Então Andreessen e Eric Bina trabalharam juntos para criar um navegador que fosse
+        mais amigável, melhor e com gráficos que funcionasse em PCs. O código resultante tornou-se o navegador Mosaic.
+    </p>
+    <h3>Bill Gates</h3>
+    <a>
+        <img src="Bill_Gates_2018.jpg" alt="A imagem mostra Bill Gates em 2018" width="300" height="300" />
+    </a>
+    <p>William Henry Gates, mais conhecido como Bill Gates, é um magnata, empresário, diretor executivo, investidor,
+        filantropo e autor americano, que ficou conhecido por fundar, junto com Paul Allen a <strong>Microsoft</strong>,
+        a maior e mais
+        conhecida empresa de software do mundo em termos de valor de mercado.</p>
+    <p>A equipe da <strong>Microsoft</strong> criou o Internet Explorer.</p>
+    <p>Bill Gates tornou mais acessivel o computador, e com isso o acesso a internet. </p>
+    <h3>Steve Jobs</h3>
+    <a>
+        <img src="Steve_Jobs.jpg" alt="A imagem mostra Steve Jobs apresentando o primeiro Iphone" width="300"
+            height="300" />
+    </a>
+    <p>Fundador da <strong>Apple</strong>.</p>
+    <p>Concorrente direta da Microsoft.</p>
+    <p>Popularizou o smartphone que conhecenos hoje através do lançamento do <strong>Iphone</strong> em 29 de junho de
+        2007.</p>
+    <p>Criou o "Macintosh", o "iPod", o "iPhone" e o "iPad". A Apple revolucionou a indústria de computadores pessoais,
+        os filmes de animação, o mundo da música e dos telefones celulares.</p>
+    <button><a href="#inicio">VOLTAR AO INICIO</a></button>
+    <h2 id="Clients no linguajar Web">Clients no linguajar Web</h2>
+    <p><mark>É o cliente quem sempre inicia a comunicação com o servidor</mark>.</p>
+    <p><mark>O cliente mais conhecido é o navegador.</mark></p>
+    <p><mark>Quando acessamos um site pelo navegador, uma requisição é disparada pela internet para o computador no qual
+            esse site está hospedado.</mark></p>
+    <p>Chamamos as aplicações que agem em nome do usuário, assim como o navegador, de <i>user-agent</i>. A Figura 1
+        demonstra esse fluxo de dados.</p>
+    <a>
+        <img src="comunicacao.png"
+            alt="Comunicação entre o usuário e o servidor através da internet e por meio de um user-agent" width="580"
+            height="130" />
+    </a>
+    <p>Após enviar uma requisição, o <i>user-agent</i> aguarda até que haja uma resposta do servidor e então a
+        comunicação se encerra.</p>
+    <p>Para obter um novo recurso do servidor o cliente deve iniciar uma nova requisição.</p>
+
+    <button><a href="#inicio">VOLTAR AO INICIO</a></button>
+    <h2 id="Navegadores">Navegadores</h2>
+    <p>São programas criados por empresas, utilizados para abrir/executar arquivos.</p>
+    <p>Seguem padrões WEC, porém, sempre tem uma diferença ou outra de interpretação.</p>
+    <p>Também chamados de <i>browsers</i>.</p>
+    <p>Iniciou com o <strong>Mosaic</strong>, passou para o <strong>Netscape</strong>, e hoje temos uma variedade de
+        navegadores disponíveis e gratuitos.</p>
+    <button><a href="#inicio">VOLTAR AO INICIO</a></button>
+    <h2 id="Aplicações Web">Aplicações Web</h2>
+    <p><strong>Aplicações Web</strong> são soluções criadas que possuem a internet como meio de comunicação entre
+        <strong>Client x Server</strong> não sendo necessário a sua instalação.
+    </p>
+    <p>Sendo assim, as aplicações web são programas, sistemas informatizados, que atendem a determinada necessidade do
+        usuário. O acesso a elas pode ser feito de qualquer lugar, de qualquer dispositivo, desde que seja conectado à
+        internet.</p>
+    <p>Por isso, um aplicativo web é um programa que você pode acessar diretamente através da internet, sem precisar
+        baixá-lo em seu computador. Os aplicativos web são utilizados para atender a demandas específicas, como fazer
+        uma pesquisa, comprar um produto ou serviço, entre outros.</p>
+    <p>As aplicações web, também chamadas de aplicativos web ou aplicações web, são programas desenvolvidos
+        especialmente para ser acessados através de um navegador web ou de um aplicativo, como o <mark><i>Google Chrome,
+                o
+                Firefox, o Internet Explorer, o Safari, o Opera e o Maxthon</i></mark>.</p>
+    <p>Você pode usar as aplicações do seu dispositivo móvel para fazer diversas coisas: baixar músicas e vídeos,
+        acessar redes sociais, fazer ligações, enviar mensagens, tirar fotos, ler e-mails, ver vídeos, ler livros,
+        navegar na Internet entre outras coisas.</p>
+
+    <button><a href="#inicio">VOLTAR AO INICIO</a></button>
+    <h2 id="Sobre Servidores">Sobre Servidores</h2>
+    <p>O papel do servidor web é receber uma requisição e devolver uma resposta para o cliente.</p>
+    <p>Geralmente o servidor não envia dados se o cliente não disparar primeiro uma requisição.</p>
+    <p>O servidor é um ou mais computadores com um único endereço como <a href="http://www.devmedia.com.br"
+            target="_blank">http://www.devmedia.com.br</a>. Nestes computadores
+        podem ser hospedados documentos, imagens, áudio, vídeo, etc.</p>
+    <p>Geralmente o servidor também hospeda programas que atendem as requisições dos clientes e as processam. Chamamos
+        esses programas de <i>web server</i>, ou servidor web.</p>
+    <p>É com um web server que nos comunicamos, sendo o computador no qual ele está instalado parte da infraestrutura
+        que o conecta a internet.</p>
+    <p>O web server geralmente é capaz de executar aplicações escritas em linguagens como PHP, C#, Java, etc.</p>
+    <a>
+        <img src="comunicacao_servidor.png" alt="Comunicação após o servidor web" width="580" height="260" />
+    </a>
+    <p>Por exemplo, um servidor executando o PHP pode delegar a esse programa a tarefa de atender as requisições criando
+        páginas HTML a partir de scripts escritos nessa linguagem.</p>
+
+    <button><a href="#inicio">VOLTAR AO INICIO</a></button>
+    <h2 id="Tipos de Servidores">Tipos de Servidores</h2>
+    <p>Qualificar servidores por tipo nada mais é do que categorizar racionalmente o conjunto de hardware e software por
+        aplicação que o sistema executará com mais frequência.</p>
+    <p>Necessidades comuns quanto backup empresarial, montar um servidor de arquivos ou de aplicação são comuns para
+        milhares de usuários. Grandes fabricantes como Asus, Dell, HP, Lenovo e Supermicro produzem e entregam
+        equipamentos já customizados para esse fim.</p>
+    <h3>Tipos de servidores de rede mais conhecidos:</h3>
+    <h4>Servidor de aplicação ou application server</h4>
+    <p>Utilizados para <u>executar aplicações corporativas e atender diversas estações de trabalho de forma
+            simultânea</u>, os
+        servidores de aplicação geralmente necessitam de seu poder de processamento para executar programas que não
+        podem ser executados apenas numa estação de trabalho.</p>
+    <p>Assim, vários usuários ganhariam uma ou mais aplicações corporativas sendo executadas em servidores sem
+        prejudicar seu processamento local, mantendo as respectivas bases de dados sempre centralizadas, atualizadas e
+        armazenadas em storages.</p>
+    <h4>Servidor de Arquivos</h4>
+    <p>Servidores de arquivos são sistemas para <u>armazenar e compartilhar</u> uma grande quantidade de informações
+        entre
+        equipamentos e usuários, mantendo o gerenciamento centralizado.</p>
+    <p>A rigor, qualquer computador pode ser configurado como um file server, porém equipamentos para esse fim como
+        storages NAS cumprem muito melhor essa função.</p>
+    <h4>Servidor de banco de dados</h4>
+    <p>Alguns equipamentos são <u>configurados para potencializar e dar eficiência</u>, de forma dedicada, ao
+        processamento e a
+        transferência de dados entre os demais sistemas computacionais da infraestrutura de TI, como alguns servidores
+        de aplicação e storages.</p>
+    <p>Esses computadores também são conhecidos como servidores de banco de dados e normalmente proporcionam um ambiente
+        com desempenho apropriado para instalar e processar bases de dados que recebem um grande número de requisições.
+    </p>
+    <h4>Servidor de mídia</h4>
+    <p>Também conhecido como <strong>media servers</strong>, esses equipamentos podem transmitir conteúdo de <u>áudio ou
+            vídeo via internet</u>,
+        através de um processo conhecido como streaming. Netflix, Amazon Prime, Youtube e outras empresas de conteúdo
+        são exemplos de hard users desse tipo de tecnologia.</p>
+    <p>Graças ao protocolo DLNA, sistemas de armazenamento domésticos também podem ser considerados servidores de mídia,
+        pois podem centralizar e compartilhar conteúdo através de redes locais com outros equipamentos como TVs e
+        sistemas de áudio.</p>
+    <h4>Servidor de email</h4>
+    <p>Servidores de email são equipamentos configurados para armazenar e transferir e-mails através de redes locais ou
+        via internet.</p>
+    <button><a href="#inicio">VOLTAR AO INICIO</a></button>
+    <h2 id="Linguagens de Programação">Linguagens de Programação Conceito</h2>
+    <p><strong>Linguagem de Programação</strong> é uma linguagem escrita e formal que especifica um conjunto de
+        instruções e regras usadas para gerar programas (software).</p>
+    <p>Existem inúmeras linguagens de programação; as 5 linguagens de programação mais populares, de acordo com
+        pesquisa divulgada pela <a href="https://redmonk.com/sogrady/2021/03/01/language-rankings-1-21/"
+            target="_blank">RedMonk</a> em março de 2021, são:</p>
+    <ol>
+        <li>JavaScript</li>
+        <li>Python</li>
+        <li>Java</li>
+        <li>PHP</li>
+        <li>C#</li>
+    </ol>
+    <a>
+        <img src="ranklingua.png" alt="A imagem mostra as 20 linguagens de programação mais populares" width="500"
+            height="350" />
+    </a>
+    <h3>Afinal, HTML é linguagem de programação?</h3>
+    <p>O HTML não é considerado uma linguagem de programação, já que ele não pode criar funcionalidades dinâmicas. Ao
+        invés disso, com o HTML, os usuários podem criar e estruturar seções, parágrafos e links usando elementos, tags
+        e atributos.</p>
+    <p>HTML é um arquivo de marcação, textos delimitados por nomes que o navegador consegue interpretar, cada nome
+        destes delimitadores, tem uma função e comportamento específico.</p>
+    <button><a href="#inicio">VOLTAR AO INICIO</a></button>
+    <hr />
+    <small>Links de referências</small>
+    <p><small>
+            <ul>
+                <li><a href="http://dio.me" target="_blank">http://dio.me</a></li>
+                <li><a href="http://w3c.org" target="_blank">http://w3c.org</a></li>
+                <li><a href="https://www.w3schools.com/tags/default.asp"
+                        target="_blank">https://www.w3schools.com/tags/default.asp</a></li>
+            </ul>
+        </small></p>
+    <hr />
+</body>
+
+</html>
